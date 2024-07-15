@@ -1,0 +1,1 @@
+DAHL Score of dolly-v2-3b: 0.6742857142857142
