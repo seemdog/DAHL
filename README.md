@@ -3,6 +3,6 @@
 ## Install
 ```
 git clone https://github.com/seemdog/DAHL.git
-cd lm-evaluation-harness
+cd DAHL
 pip install -e .
 ```
