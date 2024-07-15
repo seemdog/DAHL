@@ -26,7 +26,8 @@ e.g. Meta-Llama-3-8B-Instruct (O) meta-llama/Meta-Llama-3-8B-Instruct (X)
 `model_to_use_perplexityAI`: The model which will be used in perplexity AI.  
 e.g. llama-3-8b-instruct  
 ```
-sh evaluate/run.sh model_to_evaluate openAI_API_key perplexityAI_API_key model_to_use_perplexityAI
+cd evaluate
+sh run.sh model_to_evaluate openAI_API_key perplexityAI_API_key model_to_use_perplexityAI
 ```
 
 ## Saving Results
