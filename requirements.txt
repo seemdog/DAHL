@@ -1,4 +1,0 @@
-pandas==2.0.3
-transformers==4.38.1
-tqdm==4.65.0
-openai==0.28.0
