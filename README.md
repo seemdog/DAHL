@@ -4,5 +4,5 @@
 ```
 git clone https://github.com/seemdog/DAHL.git
 cd DAHL
-pip install -e .
+pip install -r requirements.txt
 ```
