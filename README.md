@@ -4,13 +4,15 @@ This repository provides the benchmark dataset and automated pipeline for halluc
 
 ## Dataset Construction
 
-We generate possible examination questions based on research papers crawled from PMC through gpt-4-1106-preview and manually filter out, leaving only high-quality questions. 
-<img width="865" alt="construction" src="https://github.com/user-attachments/assets/1f86a354-b7bc-48b4-8c22-f61dea7f85b7">
+We generate possible examination questions based on research papers crawled from PMC through gpt-4-1106-preview and manually filter out, leaving only high-quality questions.   
+
+<img width="300" alt="construction" src="https://github.com/user-attachments/assets/1f86a354-b7bc-48b4-8c22-f61dea7f85b7">
 
 ## Evaluation Pipeline
 
-The automtaed evaluation pipeline includes two stages: Splitting the response into atomic units, and checking the factuality of each atomic unit.
-<img width="575" alt="pipeline" src="https://github.com/user-attachments/assets/29cd8765-461e-4632-b520-302b2ab2d260">
+The automtaed evaluation pipeline includes two stages: Splitting the response into atomic units, and checking the factuality of each atomic unit.  
+
+<img width="500" alt="pipeline" src="https://github.com/user-attachments/assets/29cd8765-461e-4632-b520-302b2ab2d260">
 
 
 
