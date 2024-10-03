@@ -4,7 +4,7 @@ This repository provides the benchmark dataset and automated pipeline for halluc
 
 ## Dataset Construction
 
-We generate possible examination questions based on research papers crawled from PMC through gpt-4-1106-preview and manually filter out, leaving only high-quality questions.   
+We generate possible examination questions based on research papers crawled from PMC through gpt-4-1106-preview and manually filter them out, leaving only high-quality questions.   
 
 <img width="400" alt="construction" src="https://github.com/user-attachments/assets/1f86a354-b7bc-48b4-8c22-f61dea7f85b7">
 
