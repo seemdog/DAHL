@@ -48,3 +48,8 @@ sh run.sh model_to_evaluate openAI_API_key perplexityAI_API_key model_to_use_per
 
 ## Saving Results
 The final DAHL score will be saved in a `.txt` file.
+
+## Citation 
+```
+TBD
+```
